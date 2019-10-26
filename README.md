@@ -21,7 +21,7 @@ maven package
 java -jar target/SerialCMD-1.0-SNAPSHOT.jar
 ```
 
-## Usage
+### Usage
 ```
 SerialCMD 1.0
 Usage: serial [options]
